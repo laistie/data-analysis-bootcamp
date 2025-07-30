@@ -13,19 +13,21 @@ The first chapter focused on introducing the fundamentals of AI, including its k
 ### Chapter II: ML with Azure
 Not my favourite chapter, but found it really interesting and helpful for building a solid foundation with Azure Machine Learning. It explained core ideas like model training, data preparation, and the role of cloud computing in ML in a clear and structured way.
 
-## Part Two: Database
+## Part Two: Database Management
 
 ### Chapter III: Introduction to Relational Databases
 Although this chapter focused more on theory than hands-on practice, it was a good way to revisit and reinforce basic database concepts. The course covered essential topics such as database management systems (DBMS), data modeling and architecture of modern databases.
 
 ### Chapter IV: Relational Databases
-In this course, the focus shifted toward a deeper and more practical understanding of data modeling and relational database design. Building on foundational knowledge, it explored advanced topics such as normalization forms, entity-relationship (ER) modeling, and the principles of relational integrity. It was especially valuable to revisit these concepts, which I had first encountered during my university studies years earlier.
+In this course, the focus shifted toward a deeper and more practical understanding of data modeling and relational database design. Building on foundational knowledge, it explored advanced topics such as normalization forms, entity-relationship (ER) modeling and the principles of relational integrity. It was especially valuable to revisit these concepts, which I had first encountered during my university studies years earlier.
 
-A particularly engaging component of the course was the introduction to relational algebra, which provided a formal foundation for querying and manipulating data within relational systems. Learning how to express complex queries using relational algebra not only sharpened my analytical thinking but also was very fun to learn!
+A particularly engaging component of the course was the introduction to relational algebra. Remembering how to express complex queries using relational algebra not only sharpened my analytical thinking but also was very fun to learn!
 
-Additionally, the course emphasized the importance of clear and effective database visualization techniques, enabling better communication of database structures and relationships. This experience significantly enhanced my ability to design scalable and efficient relational databases grounded in sound theoretical principles.
+The course also placed strong emphasis on effective database visualization techniques, enhancing our ability to clearly communicate database structures and relationships. The primary theoretical focus was on schema creation and data visualization, which we reinforced through practical exercises. Although I implemented my [ECommerce](./SQL/ECommerce.sql) and [AutoRepairShop](./SQL/AutoRepairShop.sql) projects using SQL, they were primarily intended as conceptual sketches rather than fully functional databases.
 
 ### Chapter V: Working with Queries
+Now here we finally entered the SQL world - got to the good stuff!
+All classes were taught using MySQL, but I developed projects using PostgreSQL, which I'm most familiar and learned SQL with. 
 
 ## Part Three: Data Analysis
 
