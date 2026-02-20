@@ -16,3 +16,7 @@ In this section, we worked on basic queries such as CREATE, SET, REMOVE, DELETE,
 - QPP (Query Plan/Profile): tools for analyzing how Cypher executes queries — helps inspect operators, index usage, cardinality, and performance bottlenecks to optimize graph queries effectively.
 
 ## Part Three: Data Modeling with Graph Databases
+
+I really enjoyed the first classes of this part, since there were many examples of how data modeling can be used to "evolve" a schema. It was also introduced hierarchy polymorphism - luckly I had Java/OOP classes at uni, so it wasn't my first contact with that concept.
+
+After that, it was discussed navigation structures - such as linked lists 💀 which I was also familiar with, from my uni time.
